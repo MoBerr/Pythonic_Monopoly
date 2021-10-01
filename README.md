@@ -1,4 +1,5 @@
 # Unit 6 - Pythonic Monopoly
+![Bridal Path](Images/A residence in the Bridle Path.jpg)
 
 ## Background
 
