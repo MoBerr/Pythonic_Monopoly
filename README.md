@@ -1,6 +1,6 @@
 # Unit 6 - Pythonic Monopoly
 
-[A residence in the Bridle Path](Images/A residence in the Bridle Path.jpg)
+![A residence in the Bridle Path](Images/A residence in the Bridle Path.jpg)
 
 *[A residence in the Bridle Path](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/11_High_Point_Road_%2837285840830%29.jpg/1200px-11_High_Point_Road_%2837285840830%29.jpg)*
 
