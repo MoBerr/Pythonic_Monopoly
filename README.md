@@ -1,8 +1,6 @@
 # Unit 6 - Pythonic Monopoly
 
-![Toronto at night](Images/toronto.jpg)
-
-*[Photo by James Wheeler](https://www.pexels.com/@souvenirpixels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/photo-license/)*
+*[A residence in the Bridle Path](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/11_High_Point_Road_%2837285840830%29.jpg/1200px-11_High_Point_Road_%2837285840830%29.jpg)*
 
 ## Background
 
