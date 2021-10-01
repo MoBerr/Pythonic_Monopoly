@@ -1,6 +1,7 @@
-# Unit 6 - Pythonic Monopoly
-![Bridal Path](Images/A residence in the Bridle Path.jpg)
+Pythonic Monopoly
+![Toronto at night](Images/A residence in the Bridle Path.jpg)
 
+*[Photo by James Wheeler](https://www.pexels.com/@souvenirpixels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/photo-license/)*
 ## Background
 
 Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard, and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the Toronto market. If the new service is popular, then they can start to expand to other markets.
