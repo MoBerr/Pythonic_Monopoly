@@ -1,9 +1,5 @@
 # Unit 6 - Pythonic Monopoly
 
-![A residence in the Bridle Path](Images/A residence in the Bridle Path.jpg)
-
-*[A residence in the Bridle Path](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/11_High_Point_Road_%2837285840830%29.jpg/1200px-11_High_Point_Road_%2837285840830%29.jpg)*
-
 ## Background
 
 Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard, and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the Toronto market. If the new service is popular, then they can start to expand to other markets.
